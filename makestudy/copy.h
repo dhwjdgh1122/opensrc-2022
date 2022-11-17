@@ -1,0 +1,2 @@
+
+char* copy(char * origin);
